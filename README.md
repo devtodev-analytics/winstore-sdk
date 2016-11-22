@@ -8,4 +8,4 @@ Check out our [official documentation](https://www.devtodev.com/help/64/windows_
 
 Changelog
 ---------
-See [wiki page](https://www.devtodev.com/downloads/more/7).
+See [releases](https://github.com/devtodev-analytics/winstore-sdk/releases).
