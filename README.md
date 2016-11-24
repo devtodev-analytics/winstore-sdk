@@ -10,7 +10,7 @@ Changelog
 ---------
 See [releases](https://github.com/devtodev-analytics/winstore-sdk/releases).
 
-### Windows 8.1/10 and Windows Phone 8.1/10
+### Windows 8.1/10 and Windows Phone 8.1/10 (winstore)
 
 #### Version 1.5
 * Added interactivity to push-notifications: buttons, sharing, URLs, deeplinks, sound control.
@@ -49,7 +49,7 @@ See [releases](https://github.com/devtodev-analytics/winstore-sdk/releases).
 * Minor changes in session length calculation.
 * Other negligeable improvements.
 
-### Windows Phone 8 (unsupported SDK)
+### Windows Phone 8  (wp8)  Unsupported SDK!
 
 #### Version 1.5.4 
 * Bugfix with logging exceptions
