@@ -12,6 +12,10 @@ See [releases](https://github.com/devtodev-analytics/winstore-sdk/releases).
 
 ### Windows 8.1/10 and Windows Phone 8.1/10
 
+#### Version 1.5
+* Added interactivity to push-notifications: buttons, sharing, URLs, deeplinks, sound control.
+* Ability to send “quiet push-notifications” 
+
 #### Version 1.4
 * Added new "Progression event". First of all, the event is used for the games with short (within one game session) locations, game levels. The event allows you to gather data on passing the locations and get statistics on parameters which vary during the the location passing.
 
