@@ -1,6 +1,6 @@
 Latest Version 
 --------------
-##### _Jul 12st, 2016_ - v1.4
+##### _Feb 27st, 2016_ - v1.6
 
 Getting Started
 ---------------
@@ -12,6 +12,9 @@ Changelog
 See [releases](https://github.com/devtodev-analytics/winstore-sdk/releases).
 
 ### Windows 8.1/10 and Windows Phone 8.1/10 (winstore)
+
+### Version 1.6
+* The new approach to session length counting
 
 #### Version 1.5
 * Added interactivity to push-notifications: buttons, sharing, URLs, deeplinks, sound control.
