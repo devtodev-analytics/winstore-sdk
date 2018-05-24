@@ -1,6 +1,6 @@
 Latest Version 
 --------------
-##### _Nov 21th, 2017_ - [v1.6.2](https://github.com/devtodev-analytics/winstore-sdk/releases/latest)
+##### _May 24th, 2018_ - [v1.7](https://github.com/devtodev-analytics/winstore-sdk/releases/latest)
 
 Getting Started
 ---------------
