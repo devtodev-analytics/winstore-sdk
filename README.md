@@ -14,7 +14,7 @@ See [releases](https://github.com/devtodev-analytics/winstore-sdk/releases).
 ### Windows Phone 8  (wp8)  Unsupported SDK!
  
 ### Version 1.7.5
-* Optimized payment validation metrics.
+* Optimization of the payment verification method (anti-cheat).
 * Other minor fixes and improvements.
 
 #### Version 1.5.4 
