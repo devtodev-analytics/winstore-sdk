@@ -2,7 +2,7 @@ Latest Version
 --------------
 ##### _November 13th, 2019_ - [v1.7.6](https://github.com/devtodev-analytics/winstore-sdk/releases/latest)
 
-**This generation of the SDK is deprecated and is no longer supported. **
+**This generation of the SDK is deprecated and is no longer supported.**
 You can find the current version here: https://www.nuget.org/packages/DevToDev.Analytics.Uwp/
 
 Getting Started
